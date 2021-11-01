@@ -15,5 +15,3 @@ const notes = [
     timeSpent: "45",
   },
 ];
-
-console.log();
