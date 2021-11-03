@@ -36,6 +36,6 @@ console.log(`I felt ${notes[0].feeling}.`);
 
 for (const scribblings of notes) {
   console.log(`Notation Number ${scribblings.id} 
-  Subject is $[scribblings.subject]
+  Subject is ${scribblings.subject}
   Time spent is ${scribblings.timeSpent}`);
 }
